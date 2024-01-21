@@ -13,5 +13,24 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 ---
 
 ## Instructions
+### First screen
 
+|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 
+### Second screen
+
+|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+
+### Third screen
+
+|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+
+### Fourth screen
+
+|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+
+---
