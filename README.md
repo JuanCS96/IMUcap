@@ -1,4 +1,4 @@
 # MOCAPocket
 
 <p align="center">
-<img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/main.png" style="height: 75%; width:75%;"/></center></a></p>
+<img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/main.png" style="height: 100%; width:100%;"/></center></a></p>
