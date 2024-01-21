@@ -13,24 +13,34 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 ---
 
 ## Instructions
-### First screen
 
-|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-
-### Second screen
-
-|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-
-### Third screen
-
-|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-
-### Fourth screen
-
-|  <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 25%; width:25%;"/>  |  sdfsefgsgSG  |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+<table>
+      <tr>
+          <th columnspan=2> First screen </th>
+      </tr>
+      <tr>
+          <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 75%; width:75%;"/></th>
+          <th><p align="justify"> Open MOCAPocket App with the Bluetooth enabled. <br><br> 
+            Movella sensors that are turned on are automatically connected and their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in the Configuration Options ⚙️.                 <br><br> All connected sensors can be turned off: More -> Turn off. <br><br> Press on sensor´s card to change their names and to match them with the lower body segments. 
+            Sensors can be identified pressing on the green stars :eight_spoked_asterisk:. </p>
+          </th>
+      </tr>
+      <tr>
+          <th columnspan=2> Second screen </th>
+      </tr>
+      <tr>
+          <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 75%; width:75%;"/></th>
+          <th><p align="justify"> Once seven sensors connected, go to the second screen, press on Edit and enter a recording file name and the subject height. File Name can be change at any time, but subject height can                only be modified before calibration. <br><br> Next press on Start to calibrate the model. You can choose calibrate sensors before the model. Sensor´s calibration just check drift in sensor orientation, so                  it is recommended to get more reliable kinematics measurements. <br><br> Model calibration has two phases. First, static calibration (5 seconds). Second, dynamic calibration (10 seconds). To get better                     dynamic calibration results, subject must walk straight. </p>
+          </th>
+      </tr>
+      <tr>
+          <th columnspan=2> Third screen </th>
+      </tr>
+      <tr>
+          <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 75%; width:75%;"/></th>
+          <th><p align="justify">  </p>
+          </th>
+      </tr>
+</table>
 
 ---
