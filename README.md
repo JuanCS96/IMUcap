@@ -21,8 +21,8 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
       <tr>
           <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 75%; width:75%;"/></th>
           <th><p align="justify"> Open MOCAPocket App with the Bluetooth enabled. <br><br> 
-            Movella sensors that are turned on are automatically connected and their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in the Configuration Options ⚙️.                 <br><br> All connected sensors can be turned off: More -> Turn off. <br><br> Press on sensor´s card to change their names and to match them with the lower body segments. 
-            Sensors can be identified pressing on the green stars :eight_spoked_asterisk:. </p>
+            Movella sensors that are turned on are automatically connected and their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in the Configuration Options ⚙️.                 <br><br> All connected sensors can be turned off: More -> Turn off. <br><br> Tap on sensor´s card to change their names and to match them with the lower body segments. 
+            Sensors can be identified tapping on the green stars :eight_spoked_asterisk:. </p>
           </th>
       </tr>
       <tr>
@@ -30,7 +30,7 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
       </tr>
       <tr>
           <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 75%; width:75%;"/></th>
-          <th><p align="justify"> Once seven sensors connected, go to the second screen, press on Edit and enter a recording file name and the subject height. File Name can be change at any time, but subject height can                only be modified before calibration. <br><br> Next press on Start to calibrate the model. You can choose calibrate sensors before the model. Sensor´s calibration just check drift in sensor orientation, so                  it is recommended to get more reliable kinematics measurements. <br><br> Model calibration has two phases. First, static calibration (5 seconds). Second, dynamic calibration (10 seconds). To get better                     dynamic calibration results, subject must walk straight. </p>
+          <th><p align="justify"> Once seven sensors connected, go to the second screen, tap on Edit ✏️ and enter a recording file name and the subject height. File Name can be change at any time, but subject height can                only be modified before calibration. <br><br> Next, press on Start to calibrate the model. You can choose calibrate sensors before the model. Sensor´s calibration just check drift in sensor orientation, so                  it is recommended to get more reliable kinematic measurements. <br><br> Model calibration has two phases. First, static calibration (5 seconds). Second, dynamic calibration (10 seconds). To get better                     dynamic calibration results, subject must walk straight. </p>
           </th>
       </tr>
       <tr>
@@ -38,9 +38,15 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
       </tr>
       <tr>
           <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 75%; width:75%;"/></th>
-          <th><p align="justify">  </p>
+          <th><p align="justify"> On the third screen you can plot joint angles and segment orientations, as well as start and stop recordings. While recording, a red rectangle will appear around the chart.  <br><br> Recordings are saved as a CSV file in </p>
           </th>
       </tr>
+      <tr>
+          <th columnspan=2> Fourth screen </th>
+      </tr>
+      <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 75%; width:75%;"/></th>
+      <th><p align="justify"> Fourth screen shows the simulation of the user motion on a skeletal model. You can modify camera view as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> - </p>
+      </th>
 </table>
 
 ---
