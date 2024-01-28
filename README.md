@@ -44,7 +44,7 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
       <tr>
           <th columnspan=2> Fourth screen </th>
       </tr>
-      <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 75%; width:75%;"/></th>
+      <th><img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/fourth.jpg" style="height: 75%; width:75%;"/></th>
       <th><p align="justify"> Fourth screen shows the simulation of the user motion on a skeletal model. You can modify camera view as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> - </p>
       </th>
 </table>
