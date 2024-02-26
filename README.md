@@ -14,10 +14,28 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 ## Instructions
 
+###First Screen
 <div>
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="float:left; margin-right:10px; height: 25%; width:25%;"/>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 40%; width:40%;"/>
     <p>Tu texto va aquí.</p>
 </div>
+
+<div>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="float:left; margin-right:10px; height: 25%; width:25%;"/>
+    <p>Tu texto va aquí.</p>
+</div>
+
+<div>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="float:left; margin-right:10px; height: 25%; width:25%;"/>
+    <p>Tu texto va aquí.</p>
+</div>
+
+<div>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/fourth.jpg" style="float:left; margin-right:10px; height: 25%; width:25%;"/>
+    <p>Tu texto va aquí.</p>
+</div>
+
+
 
 <table>
       <tr>
