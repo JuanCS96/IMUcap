@@ -12,28 +12,31 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 ---
 
-## Instructions
+### First screen
 
-First screen
 <div>
+    <p><br> Open IMUcap App with Bluetooth enabled. Movella sensors that are turned on will connect automatically. <br> </p>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 40%; width:40%;"/>
-    <p><br><br> Open MOCAPocket App with the Bluetooth enabled. <br><br> 
-            Movella sensors that are turned on are automatically connected and their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in the Configuration Options ⚙️.                 <br><br> All connected sensors can be turned off: More -> Turn off. <br><br> Tap on sensor´s card to change their names and to match them with the lower body segments. 
-            Sensors can be identified tapping on the green stars :eight_spoked_asterisk:.</p>
+    <p><br>  By default their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in Sensor Settings ⚙️. <br> <br> </p>             
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/config.jpg" style="height: 40%; width:40%;"/> 
+    <p><br> Tap on sensor´s card to change their names and to match them with the lower body segments. Sensors can be identified tapping on the green stars :eight_spoked_asterisk:. </p>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/sensor.jpg" style="height: 40%; width:40%;"/> 
+    <p><br> All connected sensors can be turned off: More -> Turn off. </p>
 </div>
 
 ---
 
-Second screen
+### Second screen
 <div>
+    <p><br> In the second screen, tap on Edit ✏️ and enter a recording file name and the user height. While not recording, filename can be changed at any time, but user height can only be modified before                      calibration. <br></p>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 40%; width:40%;"/>
-    <p><br><br> Once seven sensors connected, go to the second screen, tap on Edit ✏️ and enter a recording file name and the subject height. While not recording, filename can be change at any time, but                 subject height can only be modified before calibration. <br><br> Next, press on Start to calibrate the model. You can choose calibrate sensors before the model. 
-                Calibrating sensors just check drift in sensors orientation, so it is recommended to get more reliable kinematic measurements. <br><br> Model calibration has two phases. First, static calibration (5                         seconds). Second, dynamic calibration (10 seconds). To get better dynamic calibration results, subject must walk straight.</p>
+    <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. To avoid sensor orientation drift, it is recommended to put the sensors together on a flat surface with their Z axis             poitting up. </p>
+    <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend knees and hips. </p>
 </div>
 
 ---
 
-Third screen
+### Third screen
 <div>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 40%; width:40%;"/>
     <p><br><br> On the third screen you can plot joint angles and segment orientations, as well as start and stop recordings. While recording, a red rectangle will appear around the chart.  <br><br> 
@@ -43,7 +46,7 @@ Third screen
 
 ---
 
-Fourth screen
+### Fourth screen
 <div>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
     <p><br><br> Fourth screen shows the simulation of the user motion on a skeletal model. You can modify camera view as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view                   around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two fingers pan to move the model horizontaly and verticaly.</p>
