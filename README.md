@@ -39,7 +39,7 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 ### Third screen
 <div>
-    <p><br> In the third screen, live joint angles and segment orientations are plotted (first top right button). Up to four signals can be plotted at one.<br></p>
+    <p><br> In the third screen, live joint angles and segment orientations are plotted (first top right button). Up to four signals can be plotted at one. <br></p>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 30%; width:30%;"/>
     <p><br> Recordings start and stop pressing the second top right button. While recording, a red rectangle will appear around the chart. <br></p>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/recording.jpg" style="height: 30%; width:30%;"/>
@@ -52,8 +52,10 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 ### Fourth screen
 <div>
+    <p><br> Fourth screen shows the simulation of the user motion on a skeletal model in real-time. <br></p>
     <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
-    <p><br><br> Fourth screen shows the simulation of the user motion on a skeletal model in real-time. Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view            around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two fingers pan to move the model horizontaly and verticaly.</p>
+    <p><br><br> Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two 
+    fingers pan to move the model horizontaly and verticaly. <br> -  Top right button reset the view. Top left button go back. </p>
 </div>
 
 ---
