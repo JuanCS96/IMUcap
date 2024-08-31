@@ -16,11 +16,11 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 <div>
     <p><br> Open IMUcap App with Bluetooth enabled. Movella sensors that are turned on will connect automatically. <br> </p>
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 40%; width:40%;"/>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/first.jpg" style="height: 30%; width:30%;"/>
     <p><br>  By default their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in Sensor Settings ⚙️. <br> <br> </p>             
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/settings.jpg" style="height: 40%; width:40%;"/> 
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/settings.jpg" style="height: 30%; width:30%;"/> 
     <p><br> Tap on sensor´s card to change their names and to match them with the lower body segments. Sensors can be identified tapping on the green stars :eight_spoked_asterisk:. </p>
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/config.jpg" style="height: 40%; width:40%;"/> 
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/config.jpg" style="height: 30%; width:30%;"/> 
     <p><br> All connected sensors can be turned off: More -> Turn off. </p>
 </div>
 
@@ -29,19 +29,22 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 ### Second screen
 <div>
     <p><br> In the second screen, tap on Edit ✏️ and enter a recording file name and the user height. While not recording, filename can be changed at any time, but user height can only be modified before                      calibration. <br></p>
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 40%; width:40%;"/>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/second.jpg" style="height: 30%; width:30%;"/>
     <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. To avoid sensor orientation drift, it is recommended to put the sensors together on a flat surface with their Z axis             poitting up. </p>
-    <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend knees and hips. </p>
+    <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend knees and hips. <br></p>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/calib.jpg" style="height: 50%; width:50%;"/>
 </div>
 
 ---
 
 ### Third screen
 <div>
-    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 40%; width:40%;"/>
-    <p><br><br> On the third screen you can plot joint angles and segment orientations, as well as start and stop recordings. While recording, a red rectangle will appear around the chart.  <br><br> 
-                Recordings are saved as a CSV file in: <br> /storage/emulated/0/Android/data/com.bioapp.mocappocket/files/recordings.  <br><br> 
-                The format of the recording´s names are: filename + _yyyy_MM_dd_HH_mm_ss.</p>
+    <p><br> In the third screen joint angles and segment orientations can be plotted (first top right button), as well as start and stop recordings (second top right button). <br></p>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third.jpg" style="height: 30%; width:30%;"/>
+    <p><br> While recording, a red rectangle will appear around the chart. <br></p>
+    <img src="https://github.com/JuanCS96/MOCAPocket/blob/main/images/third_recording.jpg" style="height: 30%; width:30%;"/>
+    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p> 
+                
 </div>
 
 ---
