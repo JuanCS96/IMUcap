@@ -9,6 +9,7 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 - Android version 12.0 or higher.
 - Minimum sensors firmware version 3.0.0.
+- 7 Movella Dot sensors.
 
 ---
 
