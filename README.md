@@ -30,7 +30,7 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 
 ### Second screen
 <div>
-    <p><br> In the second screen, tap on Edit ✏️ and enter a recording file name and the user height. While not recording, filename can be changed at any time, but user height can only be modified before                      calibration. <br></p>
+    <p><br> In the second screen, tap on Edit ✏️ and enter a recording filename and the user height. While not recording, filename can be changed at any time, but user height can only be modified before                       calibration. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/second.jpg" style="height: 30%; width:30%;"/>
     <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. To avoid sensor orientation drift, it is recommended to put the sensors together on a flat surface with their Z axis             poitting up. </p>
     <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend knees and hips. <br></p>
