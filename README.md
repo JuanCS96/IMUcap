@@ -5,6 +5,7 @@
 
 Android App for measure lower body kinematics with [Movella Dot](https://www.movella.com/products/wearables/movella-dot) sensors.
 
+
 ## Requirements
 
 - Android version 12.0 or higher.
@@ -45,6 +46,8 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
     <p><br> Recordings start and stop pressing the second top right button. While recording, a red rectangle will appear around the chart. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/recording.jpg" style="height: 30%; width:30%;"/>
     <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p> 
+    <p><br> Joint angles ZXY: <br> - Hip flexion(+)/extension(-), abduction(+)/adduction(-), internal(+)/external(-) rotation. <br> - Knee flexion(+)/extension(-), abduction(+)/adduction(-), internal(+)/external(-)            rotation. <br> - Ankle dorsiflexion(+)/plantarflexion(-), abduction(+)/adduction(-), internal(+)/external(-) rotation. </p> 
+    <p><br> Pelvis, thighs, shanks and feet orientation (Euler).<br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/trial.jpg" style="height: 30%; width:30%;"/>
                 
 </div>
