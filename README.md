@@ -15,11 +15,11 @@ Android App for measure lower body kinematics with [Movella Dot](https://www.mov
 ### First screen
 
 <div>
-    <p><br> Open IMUcap App with Bluetooth enabled. Movella sensors that are turned on will connect automatically. <br> </p>
+    <p><br> Open IMUcap App with Bluetooth enabled. Movella sensors that are turned on will connect automatically. Sensors can be identified tapping on the green stars :eight_spoked_asterisk:. <br> </p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/first.jpg" style="height: 30%; width:30%;"/>
     <p><br>  By default, their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in Sensor Settings ⚙️. <br> <br> </p>             
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/settings.jpg" style="height: 30%; width:30%;"/> 
-    <p><br> Tap on sensor´s card to change their names and to match them with the lower body segments. Sensors can be identified tapping on the green stars :eight_spoked_asterisk:. </p>
+    <p><br> Tap on sensor´s card to change their names and to match them with the lower body segments. </p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/config.jpg" style="height: 30%; width:30%;"/> 
     <p><br> All connected sensors can be turned off: More -> Turn off. </p>
 </div>
