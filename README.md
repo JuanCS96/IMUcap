@@ -5,11 +5,9 @@
 
 Android App to measure lower body kinematics with [Movella Dot](https://www.movella.com/products/wearables/movella-dot) sensors.
 
-
-
 https://github.com/user-attachments/assets/ec480f13-fbca-42aa-8d2e-3d0821731583
 
-
+https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ## Requirements
 
