@@ -60,9 +60,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 ### Fourth screen
 <div>
     <p><br> On the fourth screen, you can start and stop recordings. The top-right button manages recordings without video. To record data and video simultaneously, use the camera button. <br></p>
-    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
-
-    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
+    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename +                       _yyyy_MM_dd_HH_mm_ss. <br></p>
 </div>
 
 ---
