@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ### Second screen
 <div>
-    <p><br> In the second screen, tap on Edit ✏️ and enter a recording filename. While not recording, filename can be changed at         any time. <br></p>
+    <p><br> On the second screen, tap on Edit ✏️ and enter a recording filename. While not recording, filename can be changed at         any time. <br></p>
     <p><br> Select the desired joints to measure. Up to six joints can be choosen. Note that the selected joints must match the segments defined in the sensor configuration. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/second.jpg" style="height: 30%; width:30%;"/>
     <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. Place the sensors together on a flat surface with the Z axes poitting up and the X axes heading in the same direction. </p>
@@ -45,14 +45,13 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ### Third screen
 <div>
-    <p><br> In the third screen, live joint angles and segment orientations are plotted (first top right button). Up to four signals can be plotted at one. <br></p>
+    <p><br> On the third screen, live joint angles and segment orientations are plotted. Up to four signals can be plotted at one. Press the second top-right button to open the chart menu. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/third.jpg" style="height: 30%; width:30%;"/>
-    <p><br> Recordings start and stop pressing the second top right button. While recording, a red rectangle will appear around the chart. <br></p>
-    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/recording.jpg" style="height: 30%; width:30%;"/>
-    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p> 
-    <p><br> Joint angles ZXY: <br> - Hip flexion(+)/extension(-), abduction(+)/adduction(-), internal(+)/external(-) rotation. <br> - Knee flexion(+)/extension(-), abduction(+)/adduction(-), internal(+)/external(-)            rotation. <br> - Ankle dorsiflexion(+)/plantarflexion(-), abduction(+)/adduction(-), internal(+)/external(-) rotation. </p> 
-    <p><br> Pelvis, thighs, shanks and feet orientation (Euler).<br></p>
-    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/trial.jpg" style="height: 30%; width:30%;"/>
+    <p><br> The first top-right button shows the simulation of the user motion on a skeletal model in real-time. The simulation only works when the right and left hip, knee and ankle joints are selected. <br></p>
+    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
+    <p><br><br> Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two 
+    fingers pan to move the model horizontaly and verticaly. <br> -  Top right button reset the view. Top left button go back. </p>
+
                 
 </div>
 
@@ -60,10 +59,11 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ### Fourth screen
 <div>
-    <p><br> Fourth screen shows the simulation of the user motion on a skeletal model in real-time. <br></p>
+    <p><br> On the fourth screen, you can start and stop recordings. The top-right button manages recordings without video. To record data and video simultaneously, use the camera button. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
-    <p><br><br> Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two 
-    fingers pan to move the model horizontaly and verticaly. <br> -  Top right button reset the view. Top left button go back. </p>
+
+    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
 </div>
 
 ---
+
