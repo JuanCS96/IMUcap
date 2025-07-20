@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 ### Second screen
 <div>
     <p><br> In the second screen, tap on Edit ✏️ and enter a recording filename. While not recording, filename can be changed at         any time. <br></p>
-    <p><br> Select the desired joints to measure. Up to six joints can be selected. <br></p>
+    <p><br> Select the desired joints to measure. Up to six joints can be choosen. Note that the selected joints must match the segments defined in the sensor configuration. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/second.jpg" style="height: 30%; width:30%;"/>
     <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. Place the sensors together on a flat surface with the Z axes poitting up and the X axes heading in the same direction. </p>
     <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend joints following instructions. <br></p>
