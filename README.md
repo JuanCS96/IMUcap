@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 - Android version 12.0 or higher.
 - Minimum sensors firmware version 3.0.0.
-- 7 Movella Dot sensors.
+- Two Movella Dot sensors at least.
 
 ---
 
