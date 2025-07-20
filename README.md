@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/first.jpg" style="height: 30%; width:30%;"/>
     <p><br>  By default, their output rate and filter are set to 30 Hz and General, respectively. These parameters can be changed in Sensor Settings ⚙️. <br> <br> </p>             
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/settings.jpg" style="height: 30%; width:30%;"/> 
-    <p><br> Tap on sensor´s card to change their names and to match them with the lower body segments. </p>
+    <p><br> Tap on sensor´s card to change their names and to match them with the body segments. </p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/config.jpg" style="height: 30%; width:30%;"/> 
     <p><br> All connected sensors can be turned off: More -> Turn off. </p>
 </div>
@@ -33,10 +33,10 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ### Second screen
 <div>
-    <p><br> In the second screen, tap on Edit ✏️ and enter a recording filename and the user height. While not recording, filename can be changed at any time, but user height can only be modified before                       calibration. <br></p>
+    <p><br> In the second screen, tap on Edit ✏️ and enter a recording filename. While not recording, filename can be changed at         any time. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/second.jpg" style="height: 30%; width:30%;"/>
-    <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. To avoid sensor orientation drift, it is recommended to put the sensors together on a flat surface with their Z axis             poitting up. </p>
-    <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend knees and hips. <br></p>
+    <p><br> Press on Start and follow instructions. A sensor calibration will be performed first. Place the sensors together on a flat surface with the Z axes poitting up and the X axes heading in the same direction. </p>
+    <p><br> Next, put the sensors on the corresponding user segments and hold the static pose for 5 seconds. Then, bend joints following instructions. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/calib.jpg" style="height: 50%; width:50%;"/>
 </div>
 
