@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
     <p><br> The first top-right button shows the simulation of the user motion on a skeletal model in real-time. The simulation only works when the right and left hip, knee and ankle joints are selected. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
     <p><br><br> Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two 
-    fingers pan to move the model horizontaly and verticaly. <br> -  Top right button reset the view. Top left button go back. </p>
+    fingers pan to move the model horizontaly and verticaly. <br> -  Top right button resets the view. Top left button goes back. </p>
 
                 
 </div>
