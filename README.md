@@ -45,10 +45,10 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 
 ### Third screen
 <div>
-    <p><br> On the third screen, live joint angles and segment orientations are plotted. Up to four signals can be plotted at one. Press the second top-right button to open the chart menu. <br></p>
+    <p><br> On the third screen, live joint angles and segment orientations are plotted. Up to four signals can be plotted at one. Press the second top-right button to open the graph menu. During recording, a red rectangle appears around the graph. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/third.jpg" style="height: 30%; width:30%;"/>
     <p><br> The first top-right button shows the simulation of the user motion on a skeletal model in real-time. The simulation only works when the right and left hip, knee and ankle joints are selected. <br></p>
-    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.jpg" style="height: 40%; width:40%;"/>
+    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/model.jpg" style="height: 40%; width:40%;"/>
     <p><br><br> Camera view can be modify as follow: <br> - Slide horizontaly or verticaly with one finger to rotate the view around the model. <br> - With two fingers pinch to zoom in and spread to zoom out. <br> -  Two 
     fingers pan to move the model horizontaly and verticaly. <br> -  Top right button resets the view. Top left button goes back. </p>
 
@@ -60,7 +60,10 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
 ### Fourth screen
 <div>
     <p><br> On the fourth screen, you can start and stop recordings. The top-right button manages recordings without video. To record data and video simultaneously, use the camera button. <br></p>
-    <p><br> Recordings are saved as a CSV file in /storage/emulated/0/Android/data.... with the name of: filename +                       _yyyy_MM_dd_HH_mm_ss. <br></p>
+    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.png" style="height: 30%; width:30%;"/>
+    <p><br> Recordings are saved as a .csv files in /storage/emulated/0/Android/data/com.biomechApp.imuCap/files/recordings with the       name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
+    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/recording.png" style="height: 30%; width:30%;"/>
+    <p><br> Videos are saved as a .mp4 files in /storage/emulated/0/Android/data/com.biomechApp.imuCap/files/Movies with the               name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
 </div>
 
 ---
