@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/e6cddad9-966b-44e0-8227-264eb03617d1
     <p><br> On the fourth screen, you can start and stop recordings. The top-right button manages recordings without video. To record data and video simultaneously, use the camera button. <br></p>
     <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/fourth.png" style="height: 30%; width:30%;"/>
     <p><br> Recordings are saved as a .csv files in /storage/emulated/0/Android/data/com.biomechApp.imuCap/files/recordings with the       name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
-    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/recording.png" style="height: 30%; width:30%;"/>
+    <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/trial.jpg" style="height: 30%; width:30%;"/>
     <p><br> Videos are saved as a .mp4 files in /storage/emulated/0/Android/data/com.biomechApp.imuCap/files/Movies with the               name of: filename + _yyyy_MM_dd_HH_mm_ss. <br></p>
 </div>
 
