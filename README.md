@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/JuanCS96/IMUcap/blob/main/images/main.png" style="height: 100%; width:100%;"/></center></a></p>
 
-[Android App](https://mega.nz/file/NOogkSJQ#tfIRtZhdEu6BKJ-ni2g9aKypycjW4rS1XurXgRbwXmg) to measure joint angles and segment orientations with [Movella Dot](https://www.movella.com/products/wearables/movella-dot) sensors.
+[Android App](https://mega.nz/#P!AgEQ-jEQIMq9KqqLaVf69Y6wIkoW01gS8rwN3HC8RB7DzG94l_vZItJbSNgdDEVQERkuDIfLy6lsii3sDj_CIlIsg7pl9bKvUS_bj1SMUEy2MmN53Hb-79NA5Mp01RHUbvfIjw2PGmc) to measure joint angles and segment orientations with [Movella Dot](https://www.movella.com/products/wearables/movella-dot) sensors.
 
 https://github.com/user-attachments/assets/ec480f13-fbca-42aa-8d2e-3d0821731583
 
